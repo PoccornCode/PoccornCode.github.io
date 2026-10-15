@@ -71,7 +71,7 @@
               <form id="formulario" name="formulario" method="POST" action="#">
                 <div class="card card-secondary card-outline mb-4">
                   <div class="card-header">
-                    <div class="card-title">Datos del Empleado</div>
+                    <div class="card-title">Ruta</div>
                   </div>
                   <div class="card-body">
                     <div class="form-floating mb-3">
